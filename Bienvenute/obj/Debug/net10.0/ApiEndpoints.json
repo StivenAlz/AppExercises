@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Bienvenute.Controllers.BienvenidaController",
+    "Method": "Get",
+    "RelativePath": "Bienvenida",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

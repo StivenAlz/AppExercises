@@ -1,0 +1,12 @@
+C:\Users\Usuario\Downloads\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Pokerface
+C:\Users\Usuario\Downloads\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\appsettings.Development.json
+C:\Users\Usuario\Downloads\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\appsettings.json
+C:\Users\Usuario\Downloads\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Pokerface.dll
+C:\Users\Usuario\Downloads\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Pokerface.deps.json
+C:\Users\Usuario\Downloads\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Pokerface.runtimeconfig.json
+C:\Users\Usuario\Downloads\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Pokerface.pdb
+C:\Users\Usuario\Downloads\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Usuario\Downloads\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Microsoft.OpenApi.dll
+C:\Users\Usuario\Downloads\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Downloads\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Downloads\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

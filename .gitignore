@@ -1,0 +1,37 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# NuGet
+*.nupkg
+packages/
+
+# Publish outputs
+publish/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*~
+
+# Docker
+*.dockerignore

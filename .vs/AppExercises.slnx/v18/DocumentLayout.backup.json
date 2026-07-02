@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\CIIT\\AppExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|c:\\code\\ciit\\appexercises\\pokerface\\controllers\\chistescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|solutionrelative:pokerface\\controllers\\chistescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|c:\\code\\ciit\\appexercises\\pokerface\\controllers\\adivinanzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|solutionrelative:pokerface\\controllers\\adivinanzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|c:\\code\\ciit\\appexercises\\bienvenute\\controllers\\bienvenidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|solutionrelative:bienvenute\\controllers\\bienvenidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|c:\\code\\ciit\\appexercises\\pokerface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|solutionrelative:pokerface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|c:\\code\\ciit\\appexercises\\bienvenute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|solutionrelative:bienvenute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|c:\\code\\ciit\\appexercises\\pokerface\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|solutionrelative:pokerface\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|c:\\code\\ciit\\appexercises\\bienvenute\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|solutionrelative:bienvenute\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\CIIT\\AppExercises\\PokerFace\\Program.cs",
+              "RelativeDocumentMoniker": "PokerFace\\Program.cs",
+              "ToolTip": "C:\\Code\\CIIT\\AppExercises\\PokerFace\\Program.cs",
+              "RelativeToolTip": "PokerFace\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T22:06:44.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BienvenidaController.cs",
+              "DocumentMoniker": "C:\\Code\\CIIT\\AppExercises\\Bienvenute\\Controllers\\BienvenidaController.cs",
+              "RelativeDocumentMoniker": "Bienvenute\\Controllers\\BienvenidaController.cs",
+              "ToolTip": "C:\\Code\\CIIT\\AppExercises\\Bienvenute\\Controllers\\BienvenidaController.cs",
+              "RelativeToolTip": "Bienvenute\\Controllers\\BienvenidaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T22:08:08.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdivinanzasController.cs",
+              "DocumentMoniker": "C:\\Code\\CIIT\\AppExercises\\PokerFace\\Controllers\\AdivinanzasController.cs",
+              "RelativeDocumentMoniker": "PokerFace\\Controllers\\AdivinanzasController.cs",
+              "ToolTip": "C:\\Code\\CIIT\\AppExercises\\PokerFace\\Controllers\\AdivinanzasController.cs",
+              "RelativeToolTip": "PokerFace\\Controllers\\AdivinanzasController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T22:10:15.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChistesController.cs",
+              "DocumentMoniker": "C:\\Code\\CIIT\\AppExercises\\PokerFace\\Controllers\\ChistesController.cs",
+              "RelativeDocumentMoniker": "PokerFace\\Controllers\\ChistesController.cs",
+              "ToolTip": "C:\\Code\\CIIT\\AppExercises\\PokerFace\\Controllers\\ChistesController.cs",
+              "RelativeToolTip": "PokerFace\\Controllers\\ChistesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T22:09:35.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\CIIT\\AppExercises\\Bienvenute\\Program.cs",
+              "RelativeDocumentMoniker": "Bienvenute\\Program.cs",
+              "ToolTip": "C:\\Code\\CIIT\\AppExercises\\Bienvenute\\Program.cs",
+              "RelativeToolTip": "Bienvenute\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T22:06:20.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Code\\CIIT\\AppExercises\\PokerFace\\Dockerfile",
+              "RelativeDocumentMoniker": "PokerFace\\Dockerfile",
+              "ToolTip": "C:\\Code\\CIIT\\AppExercises\\PokerFace\\Dockerfile",
+              "RelativeToolTip": "PokerFace\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-01T22:10:31.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Code\\CIIT\\AppExercises\\Bienvenute\\Dockerfile",
+              "RelativeDocumentMoniker": "Bienvenute\\Dockerfile",
+              "ToolTip": "C:\\Code\\CIIT\\AppExercises\\Bienvenute\\Dockerfile",
+              "RelativeToolTip": "Bienvenute\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-01T22:09:09.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
