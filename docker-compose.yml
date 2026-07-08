@@ -1,7 +1,7 @@
 services:
   bienvenute:
     build:
-      context: ./Bienvenute
+      context: Bienvenute
       dockerfile: Dockerfile
     container_name: bienvenute
     ports:
@@ -11,7 +11,7 @@ services:
 
   pokerface:
     build:
-      context: ./Pokerface
+      context: PokerFace
       dockerfile: Dockerfile
     container_name: pokerface
     ports:
