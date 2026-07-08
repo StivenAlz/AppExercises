@@ -3,5 +3,5 @@ WORKDIR /app
 EXPOSE 5601
 
 # Copiar la publicacion
-COPY ./bin/Release/net10.0/linux-x64/publish/ .
+COPY ./bin/Release/net10.0/linux-x64/ .
 ENTRYPOINT ["dotnet", "Bienvenute.dll"]
