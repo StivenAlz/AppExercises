@@ -7,9 +7,7 @@ Write-Host "╚═════════════════════�
 foreach ($project in $projects) {
     Write-Host "`n📦 Procesando $project..." -ForegroundColor Yellow
     Write-Host "🧹 Limpiando..." -ForegroundColor Blue
-    dotnet clean ".\$project\$project.csproj"
-    Write-Host "🧹 Limpiando..." -ForegroundColor Blue
-    dotnet restore ".\$project\$project.csproj"
+    dotnet clean ".\$project\$project.csproj" -c Release
     Write-Host "📦 Publicando para linux-x64..." -ForegroundColor Blue
     dotnet publish ".\$project\$project.csproj" -c Release -r linux-x64 --self-contained false -o ".\$project\bin\Release\net10.0\linux-x64\publish"
     if ($LASTEXITCODE -ne 0) {

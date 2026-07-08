@@ -18,4 +18,6 @@ app.UseSwaggerUI();
 app.UseAuthorization();
 app.MapControllers();
 
+app.MapGet("/", () => Results.Ok(new { mensaje = "AppExercises Stiven funcionando correctamente" }));
+
 app.Run();
