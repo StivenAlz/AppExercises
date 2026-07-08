@@ -15,14 +15,14 @@ dotnet publish ./Bienvenute/Bienvenute.csproj -c Release -r linux-x64 --self-con
 dotnet publish ./PokerFace/PokerFace.csproj -c Release -r linux-x64 --self-contained true
 
 echo -e "\n${YELLOW}🐳 Construyendo imágenes Docker...${NC}"
-docker-compose build
+docker compose build
 if [ $? -ne 0 ]; then
     echo -e "${RED}❌ Error al construir las imágenes${NC}"
     exit 1
 fi
 
 echo -e "\n${YELLOW}🚀 Levantando contenedores...${NC}"
-docker-compose up -d --force-recreate
+docker compose up -d --force-recreate
 if [ $? -ne 0 ]; then
     echo -e "${RED}❌ Error al levantar los contenedores${NC}"
     exit 1
