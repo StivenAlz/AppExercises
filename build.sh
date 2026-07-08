@@ -10,18 +10,9 @@ echo -e "${CYAN}╔════════════════════�
 echo -e "${CYAN}║                      BUILD LOCAL                   ║${NC}"
 echo -e "${CYAN}╚════════════════════════════════════════════════════╝${NC}"
 
-for project in Bienvenute Pokerface; do
-    echo -e "\n${YELLOW}📦 Procesando $project...${NC}"
-    echo -e "${BLUE}🧹 Limpiando...${NC}"
-    dotnet clean ./$project/$project.csproj -c Release
-    echo -e "${BLUE}📦 Publicando para linux-x64...${NC}"
-    dotnet publish ./$project/$project.csproj -c Release -r linux-x64 --self-contained false -o ./$project/bin/Release/net10.0/linux-x64/publish
-    if [ $? -ne 0 ]; then
-        echo -e "${RED}❌ Error al publicar $project${NC}"
-        exit 1
-    fi
-    echo -e "${GREEN}✅ $project publicado correctamente${NC}"
-done
+dotnet clean
+dotnet publish ./Bienvenute/Bienvenute.csproj -c Release -r linux-x64 --self-contained true
+dotnet publish ./PokerFace/PokerFace.csproj -c Release -r linux-x64 --self-contained true
 
 echo -e "\n${YELLOW}🐳 Construyendo imágenes Docker...${NC}"
 docker-compose build
@@ -31,7 +22,7 @@ if [ $? -ne 0 ]; then
 fi
 
 echo -e "\n${YELLOW}🚀 Levantando contenedores...${NC}"
-docker-compose up -d
+docker-compose up -d --force-recreate
 if [ $? -ne 0 ]; then
     echo -e "${RED}❌ Error al levantar los contenedores${NC}"
     exit 1
